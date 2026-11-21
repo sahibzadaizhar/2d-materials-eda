@@ -63,5 +63,6 @@ Run the cells to reproduce the analysis and the figures.
 ### About Me
 I am a computational condensed matter physicist. My work focuses on using DFT to understand and design 2D materials for nanoelectronic and optoelectronic applications. This project is part of my ongoing research on strain-engineered van der Waals heterostructures.
 
-ResearchGate: My Profile(https://www.researchgate.net/profile/Sahibzada-Izhar-Hussain-Bacha-2)
+ResearchGate: https://www.researchgate.net/profile/Sahibzada-Izhar-Hussain-Bacha-2
+
 Email: sahibzadaibh@gmail.com
